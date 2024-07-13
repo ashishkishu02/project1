@@ -1,2 +1,2 @@
-# project1
-demo project with basic html, css and javascript . 
+A project with basic html, css and javascript . 
+To-do list
